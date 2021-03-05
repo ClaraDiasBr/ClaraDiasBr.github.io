@@ -164,7 +164,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #824027;
+  color: #52338b;
   text-decoration: underline;
 }
 
@@ -2883,7 +2883,7 @@ fieldset:disabled a.btn {
   text-decoration: none;
 }
 .btn-link:hover {
-  color: #824027;
+  color: #502f8f;
   text-decoration: underline;
 }
 .btn-link:focus, .btn-link.focus {
